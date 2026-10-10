@@ -37,7 +37,7 @@ MCA graduate focused on building backend applications using Java and Spring Boot
 
 Looking for my resume? You can download it here:
 
-**[Download My Resume (PDF)](./Resume.pdf)**
+**[📄 Download My Resume](https://github.com/Vivekanand02/resume/raw/refs/heads/main/Resume.pdf)**
 
 ### 🤝 Connect With Me
 
